@@ -1,0 +1,14 @@
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/bin/Debug/net10.0/SmartHome
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/bin/Debug/net10.0/SmartHome.deps.json
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/bin/Debug/net10.0/SmartHome.runtimeconfig.json
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/bin/Debug/net10.0/SmartHome.dll
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/bin/Debug/net10.0/SmartHome.pdb
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/obj/Debug/net10.0/SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/obj/Debug/net10.0/SmartHome.AssemblyInfoInputs.cache
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/obj/Debug/net10.0/SmartHome.AssemblyInfo.cs
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/obj/Debug/net10.0/SmartHome.csproj.CoreCompileInputs.cache
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/obj/Debug/net10.0/SmartHome.dll
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/obj/Debug/net10.0/refint/SmartHome.dll
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/obj/Debug/net10.0/SmartHome.pdb
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/obj/Debug/net10.0/SmartHome.genruntimeconfig.cache
+/home/thauxeon/RiderProjects/SmartHome/SmartHome/obj/Debug/net10.0/ref/SmartHome.dll
