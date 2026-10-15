@@ -11,5 +11,5 @@ public class Fridge : Device
     }
     protected override int PowerUsage() => IsEcoMode ? 100 : 150;
     public new string GetDescription() => $"{Name} ({(IsOn ? "be" : "ki")}), {(IsEcoMode ? "eco mód" : "normál mód")}";
-    public new bool TurnOFf() => false;
+    public override bool TurnOff() => false;
 }

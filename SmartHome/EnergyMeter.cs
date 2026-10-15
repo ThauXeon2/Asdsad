@@ -15,11 +15,13 @@ public class EnergyMeter
 
     public bool Run(Device device, int hours)
     {
-        if ((_used += device.Consumption(hours)) < _limit)
+        if ((_used + device.Consumption(hours)) <= Limit)
         {
             _used+=device.Consumption(hours);
             return true;
         }
+        device.TurnOff();
         return false;
     }
+    public int Remaining()=>Limit-Used;
 }
